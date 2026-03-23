@@ -1,7 +1,6 @@
 🚀 OpenLDAP Full Setup with Web UI (phpLDAPadmin) on Ubuntu
 ---
 
-````md
 ---
 title: OpenLDAP Setup Guide (fiber / fiberorg)
 ---
