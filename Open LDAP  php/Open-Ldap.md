@@ -2,7 +2,7 @@
 ---
 
 ---
-title: OpenLDAP Setup Guide (fiber / fiberorg)
+Title: OpenLDAP Setup Guide (fiber / fiberorg)
 ---
 
 # 📘 OpenLDAP Full Setup Guide
