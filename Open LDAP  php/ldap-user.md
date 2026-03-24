@@ -1,10 +1,9 @@
 ## Setup FIles and flow Chart for Understanding Roles And Permissions
-```
+
 # Overview of this
 * **Admin** → full permissions
 * **Faculty** → can manage (delete) student accounts
 * **Student** → read-only + access cluster (run programs only)
-```
 
 ---
 
