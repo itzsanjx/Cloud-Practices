@@ -1,6 +1,4 @@
-Great — let’s make this **fully practical** so you can copy–paste and build everything cleanly on your `dc=fiber` setup.
-
----
+```
 
 # 📄 1. FULL LDIF FILES (Copy–Paste Ready)
 
