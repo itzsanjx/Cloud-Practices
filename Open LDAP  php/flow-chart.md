@@ -1,3 +1,4 @@
+```
                 ┌──────────────────────────┐
                 │   User / Program Start   │
                 │ (Student runs job/SSH)   │
@@ -93,3 +94,4 @@
                 │ ✔ Can run                           │
                 │ ❌ Cannot delete system files        │
                 └──────────────────────────────────────┘
+```
