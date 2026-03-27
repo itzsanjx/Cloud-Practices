@@ -1,4 +1,4 @@
-Yes, absolutely! You can create a user in **phpLDAPadmin** (browser) and then export it as a `.ldif` file to keep your local records updated. Here's how:
+Create a user in **phpLDAPadmin** (browser) and then export it as a `.ldif` file to keep your local records updated. Here's how:
 
 ---
 
