@@ -53,7 +53,7 @@ sudo ufw status
 
 | Section | What it shows |
 |---|---|
-| **System overview | CPU, RAM, disk, network live graphs** |
+| **System overview** | **CPU, RAM, disk, network live graphs** |
 | Processes | Every running process with CPU and memory |
 | Apache | Web requests, connections, bandwidth |
 | Disk I/O | Read/write speed per disk |
