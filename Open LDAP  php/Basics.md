@@ -1,6 +1,6 @@
-## Basic Things to check 
+# Basic Things to check 
 ---
-# Basics Process checking things
+ Basics Process checking things
 
 ```bash
 # Top 10 by CPU
