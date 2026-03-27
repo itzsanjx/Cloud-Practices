@@ -1,7 +1,7 @@
 # Basic Things to check 
----
- Basics Process checking things
 
+Basics Process checking things
+---
 ```bash
 # Top 10 by CPU
 ps aux --sort=-%cpu | head -10
