@@ -51,11 +51,6 @@ chown -R "$USERNAME":"$USERNAME" /home/"$USERNAME"/.ssh
 # Lock home dir
 chmod 700 /home/"$USERNAME"
 
-# Assign Storage Directory
-mkdir -p /storage/"$USERNAME"
-chown "$USERNAME":"$USERNAME" /storage/"$USERNAME"
-chmod 700 /storage/"$USERNAME"
-
 # User Credentials
 SERVER_IP=$(hostname -I | awk '{print $1}')
 
@@ -66,7 +61,6 @@ echo " Username  : $USERNAME"
 echo " Home      : /home/$USERNAME"
 echo " Password  : LOCKED (SSH key only)"
 echo " Public key: $(echo $PUBKEY | cut -c1-40)..."
-echo " Storage    : /storage/$USERNAME"
 echo "==========================================="
 
 
