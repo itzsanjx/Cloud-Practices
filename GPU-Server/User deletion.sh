@@ -1,7 +1,7 @@
 #!/bin/bash
 # ─────────────────────────────────────────────
 # User Deletion Script
-# - Removes user, home directory, and storage
+# - Removes user, home directory.
 # - Requires double confirmation + username typed
 # ─────────────────────────────────────────────
 
