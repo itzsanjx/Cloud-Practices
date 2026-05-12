@@ -82,5 +82,5 @@ chmod 400 ~/.ssh/mykey.pem
 
 ssh -i ~/.ssh/mykey.pem ubuntu@YOUR_SERVER_IP
 ```
-
-```
+---
+# End of setup
