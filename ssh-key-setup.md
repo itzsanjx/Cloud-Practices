@@ -1,4 +1,4 @@
-````md
+
 # Ubuntu SSH Setup Using Private Key
 
 ## Step 1 — Open Terminal
@@ -89,5 +89,4 @@ chmod 400 ~/.ssh/mykey.pem
 ssh -i ~/.ssh/mykey.pem ubuntu@YOUR_SERVER_IP
 ```
 
-```
 ```
