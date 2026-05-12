@@ -7,12 +7,6 @@ Open the Ubuntu terminal using:
 
 ```bash
 Ctrl + Alt + T
-````
-
-You can also open it from:
-
-```text
-Applications → Terminal
 ```
 
 ---
